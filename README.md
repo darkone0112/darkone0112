@@ -6,10 +6,10 @@ I am a software development student currently working for Indra Sistemas in a Ce
 ## Skills
 
 ### Software Development:
-- :coffee: Java
-- :snake: Python
-- :computer: Android Studios
-- :heavy_dollar_sign: C
+<i class="fa fa-coffee"></i> Java
+<i class="fa fa-snake"></i> Python
+<i class="fa fa-laptop"></i> Android Studios
+<i class="fa fa-dollar-sign"></i> C
 
 ### DevOps:
 - :gear: Git
