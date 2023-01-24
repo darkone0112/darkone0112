@@ -1,3 +1,4 @@
+<head><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"></head>
 # Software Development Student & Junior DevOps Developer at Indra Sistemas
 
 I am a software development student currently working for Indra Sistemas in a Ceva Logistics project as a Junior DevOps Developer.
