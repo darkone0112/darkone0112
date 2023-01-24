@@ -1,4 +1,5 @@
-<img src=welcome.gif align=middle width =900px height = 200px>
+<img src=welcome.gif align=middle width =900px height = 200px/></br>
+
 # Software Development Student & Junior DevOps Developer at Indra Sistemas
 
 I am a software development student currently working for Indra Sistemas in a Ceva Logistics project as a Junior DevOps Developer.
