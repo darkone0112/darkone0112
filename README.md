@@ -24,7 +24,16 @@ I am a software development student currently working at Indra Sistemas in a Cev
 
 ### Currently Learning:
 ![AWS](https://img.shields.io/badge/-AWS-8fce00?style=flat-square&logo=amazonaws&logoColor=8fce00&labelColor=1e1e1e)
-I am constantly learning and expanding my skillset to better serve the company and improve as a developer. I am committed to delivering high-quality work and continuously striving to improve.
+
+I am constantly learning and expanding my skillset to better serve the company and improve as a developer, or at least that's what I tell myself at night to sleep better. But in reality, I'm just a masochist who enjoys the pain and frustration that comes with programming. Seriously, who in their right mind would willingly choose to spend hours staring at a screen trying to debug code? But hey, at least it pays the bills, right? 
+
+And let's not forget about the social interactions, or lack thereof. As a programmer, you'll spend most of your time talking to your computer and your keyboard, developing an intense and one-sided relationship with them. But hey, at least you'll have perfect posture and a great grip, thanks to all the hand cramps you'll develop from coding.
+
+On the other hand, the dopamine rush of learning something new in JavaScript is incomparable, that is until you realize that there's a new framework that does it better. But hey, that's just the nature of the game, right? Keep up or get left behind.
+
+When I first entered this industry, I imagined myself as the next Markus Persson, creating the next Minecraft. But now, here I am, a DevOps developer, making sure everything runs smoothly behind the scenes. It's like magic, but not the kind of magic that makes me want to put on a top hat and a cape and make things disappear. More like the kind of magic that makes me want to pull my hair out and make things reappear, like bugs and errors.
+
+In summary, I may hate programming sometimes, but I love it too much to quit.
 
 
 
