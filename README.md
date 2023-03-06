@@ -9,7 +9,7 @@ I am a software development student currently working at Indra Sistemas in a Cev
 ![android](https://img.shields.io/badge/-AndroidStudio-8fce00?style=flat-square&logo=android&logoColor=8fce00&labelColor=1e1e1e)
 ![python](https://img.shields.io/badge/-Python-ecec09?style=flat-square&logo=python&logoColor=w3d85c6&labelColor=1e1e1e)
 ![Oracle](https://img.shields.io/badge/-Oracle%20SQL-ea1b23?style=flat-square&logo=oracle&logoColor=white&labelColor=1e1e1e)
-![MySql](https://img.shields.io/badge/-MySql%20SQL-0b5394?style=flat-square&logo=mysql&logoColor=white&labelColor=1e1e1e)
+![MySql](https://img.shields.io/badge/-MySql%20-0b5394?style=flat-square&logo=mysql&logoColor=white&labelColor=1e1e1e)
 
 ### DevOps:
 ![git](https://img.shields.io/badge/-Git-ea1b23?style=flat-square&logo=git&logoColor=ea1b23&labelColor=1e1e1e)
