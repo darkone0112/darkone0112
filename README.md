@@ -6,7 +6,7 @@ I am a software development student currently working at Indra Sistemas in a Cev
 
 ### Software Development:
 ![Java](https://img.shields.io/badge/-Java-e76f00?style=flat-square&logo=coffeescript&logoColor=white&labelColor=1e1e1e)
-![android](https://img.shields.io/badge/-AndroidStudio-8fce00?style=flat-square&logo=android&logoColor=8fce00&labelColor=1e1e1e)
+![android](https://img.shields.io/badge/-AndroidStudio-8fce00?style=flat-square&logo=android&logoColor=3DDC84&labelColor=1e1e1e)
 ![python](https://img.shields.io/badge/-Python-ecec09?style=flat-square&logo=python&logoColor=w3d85c6&labelColor=1e1e1e)
 ![Oracle](https://img.shields.io/badge/-Oracle%20SQL-ea1b23?style=flat-square&logo=oracle&logoColor=white&labelColor=1e1e1e)
 ![MySql](https://img.shields.io/badge/-MySql%20-0b5394?style=flat-square&logo=mysql&logoColor=white&labelColor=1e1e1e)
