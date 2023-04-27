@@ -1,4 +1,4 @@
-<img src="welcome.gif" align="center" width="900px" height="200px" />
+<img src="welcome.gif" align="center" width="1200px" height="200px" />
 
 <div align = "center">
 
