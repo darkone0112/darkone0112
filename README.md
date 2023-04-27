@@ -52,5 +52,7 @@ On the other hand, the dopamine rush of learning something new in JavaScript is 
 
 ### In summary, I may hate programming sometimes, but I love it too much to quit.
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=darkone0112&theme=dark&hide_border=false)<br/>
+
 
 
