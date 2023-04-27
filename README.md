@@ -50,9 +50,13 @@ I am constantly learning and expanding my skillset to better serve the company a
 
 On the other hand, the dopamine rush of learning something new in JavaScript is incomparable, that is until you realize that there's a new framework that does it better. But hey, that's just the nature of the game, right? Keep up or get left behind.
 
-### In summary, I may hate programming sometimes, but I love it too much to quit.
 
+<div align = "center">
+    
+### In summary, I may hate programming sometimes, but I love it too much to quit.
+    
 ![](https://github-readme-streak-stats.herokuapp.com/?user=darkone0112&theme=dark&hide_border=false)<br/>
 
+</div>
 
 
