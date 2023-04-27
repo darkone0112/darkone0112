@@ -1,9 +1,17 @@
-<img src=welcome.gif align=middle width =900px height = 200px/></br>
+<img src="welcome.gif" align="middle" width="900px" height="200px"/>
 
 # Software Development Student & Junior DevOps Developer at Indra
 
-I am a software development student currently working at Indra Sistemas in a Ceva Logistics project as a Junior DevOps Developer.
+<table align=center>
+<tr>
+<th align="center">
+    
+![Metrics](https://metrics.lecoq.io/darkone0112?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&isocalendar=1&lines=1&languages=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Europe%2FMadrid)
+    
+</th>
 
+<th align="center">
+    
 ### Software Development:
 ![Java](https://img.shields.io/badge/-Java-e76f00?style=flat-square&logo=coffeescript&logoColor=white&labelColor=1e1e1e)
 ![android](https://img.shields.io/badge/-AndroidStudio-3DDC84?style=flat-square&logo=android&logoColor=3DDC84&labelColor=1e1e1e)
@@ -28,7 +36,13 @@ I am a software development student currently working at Indra Sistemas in a Cev
 
 ### Currently Learning:
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=ce7e00&labelColor=1e1e1e)
+    
+</th>
 
+</tr>
+</table>
+  
+  
 I am constantly learning and expanding my skillset to better serve the company and improve as a developer, or at least that's what I tell myself at night to sleep better. But in reality, I'm just a masochist who enjoys the pain and frustration that comes with programming. Seriously, who in their right mind would willingly choose to spend hours staring at a screen trying to debug code? But hey, at least it pays the bills, right? 
 
 On the other hand, the dopamine rush of learning something new in JavaScript is incomparable, that is until you realize that there's a new framework that does it better. But hey, that's just the nature of the game, right? Keep up or get left behind.
