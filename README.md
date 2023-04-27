@@ -1,7 +1,11 @@
-<img src="welcome.gif" align="middle" width="900px" height="200px"/>
+<img src="welcome.gif" align="middle" width="900px" height="200px" align="center"/>
+
+<div align = "center">
 
 # Software Development Student & Junior DevOps Developer at Indra
 
+</div>
+    
 <table align=center>
 <tr>
 <th align="center">
