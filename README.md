@@ -37,6 +37,9 @@
 ### Currently Learning:
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=ce7e00&labelColor=1e1e1e)
     
+![](https://github-readme-stats.vercel.app/api?username=darkone0112&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+    
 </th>
 
 </tr>
