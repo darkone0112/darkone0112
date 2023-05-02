@@ -14,7 +14,6 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.terminal.svg
+          filename: metrics.base.svg
           token: ${{ secrets.METRICS }}
-          template: terminal
-          base: header, metadata
+          base: header, activity, community, repositories, metadata
