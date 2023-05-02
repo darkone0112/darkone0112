@@ -12,6 +12,7 @@
 <th align="center">
     
 ![Metrics](/github-metrics.svg)
+![Metricss](/metrics.plugin.languages.indepth.svg)
 
     
 </th>
