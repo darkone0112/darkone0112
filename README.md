@@ -11,7 +11,7 @@
 <tr>
 <th align="center">
     
-![Metrics](/github-metrics.svg)
+![Metrics](/metrics.terminal.svg)
 ![Metricss](/metrics.plugin.languages.indepth.svg)
 
     
