@@ -11,7 +11,7 @@
 <tr>
 <th align="center">
     
-![Metrics](https://metrics.lecoq.io/darkone0112?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&isocalendar=1&lines=1&languages=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Europe%2FMadrid)
+
     
 </th>
 
@@ -42,7 +42,7 @@
 ### Currently Learning:
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=ce7e00&labelColor=1e1e1e)
     
-![](https://github-readme-stats.vercel.app/api?username=darkone0112&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![darkone0112 GitHub stats](https://github-readme-stats.vercel.app/api?username=darkone0112&theme=tokyonight&show_icons=true)
 
     
 </th>
