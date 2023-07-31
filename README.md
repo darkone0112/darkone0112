@@ -26,6 +26,7 @@
 ![Oracle](https://img.shields.io/badge/-Oracle%20SQL-F80000?style=flat-square&logo=oracle&logoColor=F80000&labelColor=1e1e1e)
 ![MySql](https://img.shields.io/badge/-MySql%20-4479A1?style=flat-square&logo=mysql&logoColor=4479A1&labelColor=1e1e1e)
 ![Bash](https://img.shields.io/badge/-Bash%20-4EAA25?style=flat-square&logo=gnubash&logoColor=4EAA25&labelColor=1e1e1e)
+![.NET](https://img.shields.io/badge/-.NET%20-512BD4?style=flat-square&logo=gnubash&logoColor=4EAA25&labelColor=1e1e1e)
 
 ### DevOps:
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=2496ED&labelColor=1e1e1e)
