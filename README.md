@@ -2,7 +2,7 @@
 
 <div align = "center">
 
-# Software Development Student & Junior DevOps Developer at Indra
+# Ground Segment Backend Developer at the European Space Agency
 
     
 </div>
