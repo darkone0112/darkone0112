@@ -41,6 +41,7 @@
 ![HyperText Markup Language](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=E34F26&labelColor=1e1e1e)
 ![Cascading Style Sheets](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=1572B6&labelColor=1e1e1e)
 ![JavaScript](https://img.shields.io/badge/-%20JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=1e1e1e)
+![Django](https://img.shields.io/badge/-%20Django-F7DF1E?style=flat-square&logo=django&logoColor=F7DF1E&labelColor=1e1e1e)
 
 ### Currently Learning:
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=ce7e00&labelColor=1e1e1e)
