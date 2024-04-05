@@ -2,7 +2,7 @@
 
 <div align = "center">
 
-# Ground Segment Backend Developer at the European Space Agency
+# Software Development Student
 
     
 </div>
