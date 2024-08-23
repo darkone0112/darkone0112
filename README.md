@@ -1,4 +1,4 @@
-<img src="welcome.gif" align="center" width="1200px" height="200px" />
+<img src="https://www.hiveworkshop.com/data/ratory-images/172/172101-706481585911afc93591cb79b4d2f41e.gif" align="center" width="1200px" height="200px" />
 
 <div align = "center">
 
