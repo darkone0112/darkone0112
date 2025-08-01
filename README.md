@@ -55,19 +55,26 @@
 </table>
   
   
-Hi, I’m Javier. I scream at computers until they obey.
+Hi, I’m a once a hopeful software engineering student. I scream at computers until they obey.
 
-I specialize in building unstable tools that solve very specific problems I created for myself. My stack includes Python, Bash, some Django, and enough duct tape to hold together a Linux distro built entirely out of questionable decisions.
+I specialize in building unstable tools that solve very specific problems I created for myself. 
 
 JavaScript is my nemesis. It’s not personal, it’s philosophical. Every time I write a .js file, an angel loses its wings and I lose my will to live. I hear TypeScript is better, which is cool, because I love lies.
 
-I use VS Code because I’m not spiritually strong enough for Vim, and I enjoy syntax highlighting more than emotional stability. I once tried to set up Neovim and ended up debugging my soul.
+Clean code is a scam, and Uncle Bob needs to log off before he convinces another generation to spend eight hours naming a function instead of shipping a feature. I know how CORS works—academically, but in practice somehow every request I make in testing still gets blocked like I’m trying to DDoS myself. I hate web development with the kind of passion usually reserved for war crimes. Every framework promises to fix the last one’s mess while creating five new ones. Still, I’ll write it—for money. Because I love money. I will write JavaScript, I will debug JavaScript, I will even pretend to enjoy JavaScript… if the paycheck clears.
 
-I reverse-engineer drivers for fun, patch GNOME like I own it, and run custom Ubuntu builds because regular Linux wasn't hard enough. My dev environment is held together by 3 aliases, 2 shell scripts, and a whispered threat to systemd.
+I use VS Code because the last time I tried setting up Vim inside WezTerm + tmux, my custom taskbar literally vanished. I asked in Stack Overflow for help and got called a moron. I made a post in Reddit and the mods deleted it for “low effort”
+In a final act of desperation, I asked Claude; Anthropic claimed it was like having a PhD in your terminal. What I got was a string of advice so catastrophically bad it made my only terminal emulator erase itself from existence. I had to reinstall my entire system. Claude was somehow even more stupid than me, and that’s saying something.
 
-I write commits like “maybe this works” and leave TODOs like “fix this later probably.” I am the sole maintainer of multiple forgotten side projects and at least one internal tool used by an entire team that has no idea I exist.
+At least it didn’t call me a slur. I did, however, call it one. Repeatedly. With feeling.
+
+Since then, I’ve chosen emotional stability over modal editing. VsCode may not be powerful, but it hasn’t tried to gaslight me into wiping out my desktop session. Yet.
+
+I write commits like “maybe this works” and leave TODOs like “fix this later probably.” I am the sole maintainer of multiple forgotten side projects and at least two internal tool used by an entire team that has no idea I exist.
 
 If it’s dumb but it works, I wrote it. If it’s smart and broken, I definitely inherited it.
+
+### For monetary and labor-related reasons, everything above is a joke. If you're from HR and currently engaging in a forward-looking talent visibility exercise (i.e., stalking my profile)—it's an absolute pleasure to connect! I'm a highly motivated, impact-oriented professional with a proven track record of delivering end-to-end solutions in fast-paced, agile environments. Passionate about leveraging synergies, driving cross-departmental alignment, and maximizing stakeholder value through scalable, cloud-native innovation. Let’s circle back and touch base to unlock new strategic opportunities together.
 
 
 <div align = "center">
