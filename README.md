@@ -2,7 +2,7 @@
 
 <div align = "center">
 
-# Software Development Student
+# Full-time Debugger, Part-time Developer
 
     
 </div>
@@ -69,11 +69,11 @@ Every time I write a `.js` file, **an angel loses its wings and I lose my will t
 I hear TypeScript is better, which is cool, because **I love lies**.
 
 Clean code is a scam, and **Uncle Bob needs to log off** before he convinces another generation to spend eight hours naming a function instead of shipping a feature.  
-I know how CORS works—academically—but in practice, every request I make in testing still gets blocked like I’m trying to DDoS myself.  
+I know how CORS works, academically, but in practice, every request I make in testing still gets blocked like I’m trying to DDoS myself.  
 
 I hate web development with the kind of passion usually reserved for war crimes.  
 Every framework promises to fix the last one’s mess while creating five new ones.  
-Still, **I’ll write it—for money. Because I love money.**  
+Still, **I’ll write it, for money. Because I love money.**  
 I will write JavaScript, I will debug JavaScript, I will even pretend to enjoy JavaScript… **if the paycheck clears**.
 
 ---
