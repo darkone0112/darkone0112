@@ -55,14 +55,22 @@
 </table>
   
   
-I am constantly learning and expanding my skillset to better serve the company and improve as a developer, or at least that's what I tell myself at night to sleep better. But in reality, I'm just a masochist who enjoys the pain and frustration that comes with programming. Seriously, who in their right mind would willingly choose to spend hours staring at a screen trying to debug code? But hey, at least it pays the bills, right? 
+Hi, I’m Javier. I scream at computers until they obey.
 
-On the other hand, the dopamine rush of learning something new in JavaScript is incomparable, that is until you realize that there's a new framework that does it better. But hey, that's just the nature of the game, right? Keep up or get left behind.
+I specialize in building unstable tools that solve very specific problems I created for myself. My stack includes Python, Bash, some Django, and enough duct tape to hold together a Linux distro built entirely out of questionable decisions.
+
+JavaScript is my nemesis. It’s not personal, it’s philosophical. Every time I write a .js file, an angel loses its wings and I lose my will to live. I hear TypeScript is better, which is cool, because I love lies.
+
+I use VS Code because I’m not spiritually strong enough for Vim, and I enjoy syntax highlighting more than emotional stability. I once tried to set up Neovim and ended up debugging my soul.
+
+I reverse-engineer drivers for fun, patch GNOME like I own it, and run custom Ubuntu builds because regular Linux wasn't hard enough. My dev environment is held together by 3 aliases, 2 shell scripts, and a whispered threat to systemd.
+
+I write commits like “maybe this works” and leave TODOs like “fix this later probably.” I am the sole maintainer of multiple forgotten side projects and at least one internal tool used by an entire team that has no idea I exist.
+
+If it’s dumb but it works, I wrote it. If it’s smart and broken, I definitely inherited it.
 
 
 <div align = "center">
-    
-### In summary, I may hate programming sometimes, but I love it too much to quit.
     
 ![](https://github-readme-streak-stats.herokuapp.com/?user=darkone0112&theme=dark&hide_border=false)<br/>
 
