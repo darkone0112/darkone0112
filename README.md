@@ -58,6 +58,8 @@
 # Hi, I’m a once-hopeful software engineering student  
 I scream at computers until they obey.
 
+> _Don't know who needs to hear this, but I use **Arch**, btw._
+
 ---
 
 ## 🛠 What I Actually Do
