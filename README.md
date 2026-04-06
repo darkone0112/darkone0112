@@ -62,7 +62,7 @@ I scream at computers until they obey.
 
 ---
 
-## 🛠 What I Actually Do
+## What I Actually Do
 
 I specialize in building **unstable tools** that solve **very specific problems** I created for myself.
 
@@ -80,7 +80,7 @@ I will write JavaScript, I will debug JavaScript, I will even pretend to enjoy J
 
 ---
 
-## 🖥 Why I Use VS Code
+## Why I Use VS Code
 
 I use VS Code because the last time I tried setting up **Vim inside WezTerm + tmux**, my **custom taskbar literally vanished**.  
 I asked on Stack Overflow and got called a **moron**.  
@@ -100,7 +100,7 @@ VS Code may not be powerful, but it hasn’t tried to gaslight me into wiping ou
 
 ---
 
-## 🧠 Philosophy
+## Philosophy
 
 I write commits like  
 > “maybe this works”  
@@ -114,7 +114,7 @@ If it’s **smart and broken**, I definitely inherited it.
 
 ---
 
-## ⚠️ HR Disclaimer
+## ⚠️ HR Disclaimer ⚠️
 
 > **For monetary and labor-related reasons, everything above is a joke.**  
 > If you're from HR and currently engaging in a *forward-looking talent visibility exercise* (i.e., **stalking** my profile)—  
