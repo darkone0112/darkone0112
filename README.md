@@ -66,37 +66,29 @@
   <tr>
     <td valign="top" width="380">
       <h2>What I Actually Do</h2>
-      <strong>Software development</strong>
-      <br>
       <img src="https://img.shields.io/badge/-Java-e76f00?style=flat-square&logo=coffeescript&logoColor=white&labelColor=1e1e1e" alt="Java">
       <img src="https://img.shields.io/badge/-AndroidStudio-3DDC84?style=flat-square&logo=android&logoColor=3DDC84&labelColor=1e1e1e" alt="Android Studio">
       <img src="https://img.shields.io/badge/-Python-ecec09?style=flat-square&logo=python&logoColor=3776AB&labelColor=1e1e1e" alt="Python">
       <img src="https://img.shields.io/badge/-Oracle%20SQL-F80000?style=flat-square&logo=oracle&logoColor=F80000&labelColor=1e1e1e" alt="Oracle SQL">
       <img src="https://img.shields.io/badge/-MySql%20-4479A1?style=flat-square&logo=mysql&logoColor=4479A1&labelColor=1e1e1e" alt="MySQL">
+      <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=4169E1&labelColor=1e1e1e" alt="PostgreSQL">
       <img src="https://img.shields.io/badge/-Bash%20-4EAA25?style=flat-square&logo=gnubash&logoColor=4EAA25&labelColor=1e1e1e" alt="Bash">
       <img src="https://img.shields.io/badge/-.NET%20-512BD4?style=flat-square&logo=.net&logoColor=512BD4&labelColor=1e1e1e" alt=".NET">
-      <br><br>
-      <strong>DevOps</strong>
-      <br>
       <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=2496ED&labelColor=1e1e1e" alt="Docker">
       <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=326CE5&labelColor=1e1e1e" alt="Kubernetes">
       <img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=D24939&labelColor=1e1e1e" alt="Jenkins">
-      <br><br>
-      <strong>Version control</strong>
-      <br>
       <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=F05032&labelColor=1e1e1e" alt="Git">
       <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&labelColor=1e1e1e" alt="GitHub">
-      <br><br>
-      <strong>Web development</strong>
-      <br>
       <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=E34F26&labelColor=1e1e1e" alt="HTML">
       <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=1572B6&labelColor=1e1e1e" alt="CSS">
-      <img src="https://img.shields.io/badge/-%20JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=1e1e1e" alt="JavaScript">
       <img src="https://img.shields.io/badge/-%20Django-F7DF1E?style=flat-square&logo=django&logoColor=F7DF1E&labelColor=1e1e1e" alt="Django">
+      <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900&labelColor=1e1e1e" alt="AWS">
       <br><br>
-      <strong>Currently learning</strong>
+      <strong>Sadly I Also Know</strong>
       <br>
-      <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=ce7e00&labelColor=1e1e1e" alt="AWS">
+      <img src="https://img.shields.io/badge/-%20JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=1e1e1e" alt="JavaScript">
+      <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=61DAFB&labelColor=1e1e1e" alt="React">
+      <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=239120&labelColor=1e1e1e" alt="C#">
       <br><br>
       I specialize in building unstable tools that solve very specific problems I created for myself.
       JavaScript is my nemesis. It is not personal, it is philosophical.
@@ -155,13 +147,11 @@
 <table align="center" border="0" cellspacing="0" cellpadding="8">
   <tr>
     <td align="center" valign="top" width="250">
-      <a href="https://github.com/darkone0112/darkone0112/issues/new?title=Guestbook%20visit&body=name%3A%20%0Avibe%3A%20%0Abrowser%3A%20">
-        <img src="./assets/guest-book.gif" width="120" alt="guest book">
-      </a>
+      <img src="./assets/guest-book.gif" width="120" alt="guest book">
       <br>
-      <a href="https://github.com/darkone0112/darkone0112/issues/new?title=Guestbook%20visit&body=name%3A%20%0Avibe%3A%20%0Abrowser%3A%20">
-        <img src="./assets/click-here.gif" width="220" alt="click here">
-      </a>
+      <img src="./assets/click-here.gif" width="220" alt="click here">
+      <br>
+      <a href="https://github.com/darkone0112/darkone0112/issues/new?title=Guestbook%20visit&body=name%3A%20%0Avibe%3A%20%0Abrowser%3A%20">sign the guestbook</a>
       <br><br>
       <img src="./assets/email.gif" width="80" alt="email">
       <br>
