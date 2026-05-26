@@ -1,134 +1,225 @@
 <img src="https://www.hiveworkshop.com/data/ratory-images/172/172101-706481585911afc93591cb79b4d2f41e.gif" align="center" width="1200px" height="200px" />
 
-<div align = "center">
+<div align="center">
 
 # Full-time Debugger, Part-time Developer
 
-    
+<img src="./assets/welcome2.gif" width="334" alt="welcome">
+<img src="./assets/welcome-face.gif" width="79" alt="welcome face">
+<img src="./assets/welcome1.gif" width="256" alt="welcome">
+
+<br>
+
+<img src="./assets/galaxy-separator.gif" width="504" alt="">
+
 </div>
-    
-<table align=center>
-<tr>
-<th align="center">
-    
-![Metrics](/metrics.base.svg)
-![Metricss](/metrics.plugin.languages.indepth.svg)
 
-    
-</th>
-
-<th align="center">
-    
-### Software Development:
-![Java](https://img.shields.io/badge/-Java-e76f00?style=flat-square&logo=coffeescript&logoColor=white&labelColor=1e1e1e)
-![android](https://img.shields.io/badge/-AndroidStudio-3DDC84?style=flat-square&logo=android&logoColor=3DDC84&labelColor=1e1e1e)
-![python](https://img.shields.io/badge/-Python-ecec09?style=flat-square&logo=python&logoColor=3776AB&labelColor=1e1e1e)
-![Oracle](https://img.shields.io/badge/-Oracle%20SQL-F80000?style=flat-square&logo=oracle&logoColor=F80000&labelColor=1e1e1e)
-![MySql](https://img.shields.io/badge/-MySql%20-4479A1?style=flat-square&logo=mysql&logoColor=4479A1&labelColor=1e1e1e)
-![Bash](https://img.shields.io/badge/-Bash%20-4EAA25?style=flat-square&logo=gnubash&logoColor=4EAA25&labelColor=1e1e1e)
-![.NET](https://img.shields.io/badge/-.NET%20-512BD4?style=flat-square&logo=.net&logoColor=512BD4&labelColor=1e1e1e)
-
-### DevOps:
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=2496ED&labelColor=1e1e1e)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=326CE5&labelColor=1e1e1e)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=D24939&labelColor=1e1e1e)
-
-### Version Control:
-![git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=F05032&labelColor=1e1e1e)
-![github](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&labelColor=1e1e1e)
-
-### Web Development:
-![HyperText Markup Language](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=E34F26&labelColor=1e1e1e)
-![Cascading Style Sheets](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=1572B6&labelColor=1e1e1e)
-![JavaScript](https://img.shields.io/badge/-%20JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=1e1e1e)
-![Django](https://img.shields.io/badge/-%20Django-F7DF1E?style=flat-square&logo=django&logoColor=F7DF1E&labelColor=1e1e1e)
-
-### Currently Learning:
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=ce7e00&labelColor=1e1e1e)
-    
-![darkone0112 GitHub stats](https://github-readme-stats.vercel.app/api?username=darkone0112&theme=tokyonight&show_icons=true)
-
-    
-</th>
-
-</tr>
+<table align="center" border="0" cellspacing="0" cellpadding="8">
+  <tr>
+    <td align="center" valign="top" width="190">
+      <img src="./assets/home-page.gif" width="180" alt="home page">
+      <br><br>
+      <img src="./assets/this-me.gif" width="60" alt="this is me">
+      <br>
+      <strong>local cryptid status</strong>
+      <br>
+      online, allegedly
+      <br><br>
+      <img src="./assets/cool.gif" width="64" alt="cool">
+      <img src="./assets/rotating-face.gif" width="32" alt="rotating face">
+      <br><br>
+      <img src="./assets/jumpy-thingui.gif" width="31" alt="jumpy thing">
+      <img src="./assets/jumpy-thingy-2.gif" width="30" alt="jumpy thing">
+      <br><br>
+      <img src="./assets/new3-3.gif" width="136" alt="new">
+      <br>
+      <small>last updated whenever the fog approves</small>
+    </td>
+    <td valign="top" width="560">
+      <div align="center">
+        <img src="./assets/about-me-banenr.gif" width="560" alt="about me">
+      </div>
+      <br>
+      Hi, I'm a once-hopeful software engineering student. I scream at computers until they obey.
+      <br><br>
+      <em>Don't know who needs to hear this, but I use <strong>Arch</strong>, btw.</em>
+      <br><br>
+      I build tools for very specific problems, usually after accidentally creating the problem myself.
+      I like systems that are practical, debuggable, and not held together by motivational quotes.
+      JavaScript is still my nemesis, but I will write it, debug it, and pretend to enjoy it if the paycheck clears.
+      <br><br>
+      I use VS Code because the last time I tried turning my terminal setup into a personality, my desktop fought back.
+      Emotional stability is a feature.
+    </td>
+    <td align="center" valign="top" width="190">
+      <img src="./assets/about-me-small.gif" width="94" alt="about me">
+      <br><br>
+      <img src="./assets/ia-wizard.gif" width="150" alt="ai wizard">
+      <br>
+      <strong>official wizard</strong>
+      <br>
+      unlicensed, unsupervised
+      <br><br>
+      <img src="./assets/warcraft-fighting.gif" width="101" alt="warcraft fighting">
+      <br>
+      <small>teamwork simulation</small>
+      <br><br>
+      <img src="./assets/dancing-dragon.gif" width="64" alt="dancing dragon">
+      <img src="./assets/dolphin.gif" width="60" alt="dolphin">
+    </td>
+  </tr>
 </table>
-  
-  
-# Hi, I’m a once-hopeful software engineering student  
-I scream at computers until they obey.
 
-> _Don't know who needs to hear this, but I use **Arch**, btw._
-
----
-
-## What I Actually Do
-
-I specialize in building **unstable tools** that solve **very specific problems** I created for myself.
-
-JavaScript is my nemesis. It’s not personal, it’s philosophical.  
-Every time I write a `.js` file, **an angel loses its wings and I lose my will to live**.  
-I hear TypeScript is better, which is cool, because **I love lies**.
-
-Clean code is a scam, and **Uncle Bob needs to log off** before he convinces another generation to spend eight hours naming a function instead of shipping a feature.  
-I know how CORS works, academically, but in practice, every request I make in testing still gets blocked like I’m trying to DDoS myself.  
-
-I hate web development with the kind of passion usually reserved for war crimes.  
-Every framework promises to fix the last one’s mess while creating five new ones.  
-Still, **I’ll write it, for money. Because I love money.**  
-I will write JavaScript, I will debug JavaScript, I will even pretend to enjoy JavaScript… **if the paycheck clears**.
-
----
-
-## Why I Use VS Code
-
-I use VS Code because the last time I tried setting up **Vim inside WezTerm + tmux**, my **custom taskbar literally vanished**.  
-I asked on Stack Overflow and got called a **moron**.  
-I posted on Reddit and the mods **deleted it for “low effort.”**  
-In a final act of desperation, I asked Claude.
-
-Anthropic claimed Claude was like having a **PhD in your terminal**.  
-What I got was a string of advice so catastrophically bad it **made my only terminal emulator erase itself from existence**.  
-I had to reinstall my entire system.  
-Claude was somehow even more stupid than me, and **that’s saying something**.
-
-At least it didn’t call me a slur.  
-**I did, however, call it one. Repeatedly. With feeling.**
-
-Since then, I’ve chosen **emotional stability over modal editing**.  
-VS Code may not be powerful, but it hasn’t tried to gaslight me into wiping out my desktop session. Yet.
-
----
-
-## Philosophy
-
-I write commits like  
-> “maybe this works”  
-and leave TODOs like  
-> “fix this later probably.”
-
-I am the sole maintainer of multiple forgotten side projects and at least two internal tools used by an entire team that has **no idea I exist**.
-
-If it’s **dumb but it works**, I wrote it.  
-If it’s **smart and broken**, I definitely inherited it.
-
----
-
-## ⚠️ HR Disclaimer ⚠️
-
-> **For monetary and labor-related reasons, everything above is a joke.**  
-> If you're from HR and currently engaging in a *forward-looking talent visibility exercise* (i.e., **stalking** my profile)—  
-> it’s an **absolute pleasure to connect!**  
-> I’m a **highly motivated, impact-oriented professional** with a **proven track record** of delivering **end-to-end solutions** in fast-paced, **agile environments**.  
-> Passionate about **leveraging synergies**, **driving cross-departmental alignment**, and **maximizing stakeholder value** through **scalable, cloud-native innovation**.  
-> Let’s **circle back and touch base** to unlock **new strategic opportunities** together.
-
-
-
-<div align = "center">
-    
-![](https://github-readme-streak-stats.herokuapp.com/?user=darkone0112&theme=dark&hide_border=false)<br/>
-
+<div align="center">
+  <img src="./assets/light-separator.gif" width="528" alt="">
 </div>
 
+<table align="center" border="0" cellspacing="0" cellpadding="8">
+  <tr>
+    <td valign="top" width="380">
+      <h2>Career Stuff Hidden In The Haunted Layout</h2>
+      <strong>Software development</strong>
+      <br>
+      Java, Android Studio, Python, Oracle SQL, MySQL, Bash, .NET
+      <br><br>
+      <strong>DevOps</strong>
+      <br>
+      Docker, Kubernetes, Jenkins
+      <br><br>
+      <strong>Version control</strong>
+      <br>
+      Git, GitHub
+      <br><br>
+      <strong>Web development</strong>
+      <br>
+      HTML, CSS, JavaScript, Django
+      <br><br>
+      <strong>Currently learning</strong>
+      <br>
+      AWS, plus whatever error message becomes today's emergency syllabus
+    </td>
+    <td align="center" valign="top" width="300">
+      <img src="./assets/cameron-world-640.gif" width="300" alt="old city">
+      <br>
+      <small>professional skyline, unprofessional operator</small>
+      <br><br>
+      <img src="./assets/giphy.gif" width="220" alt="mysterious gif">
+    </td>
+  </tr>
+</table>
 
+<div align="center">
+  <img src="./assets/material-separator.gif" width="347" alt="">
+</div>
+
+<table align="center" border="0" cellspacing="0" cellpadding="8">
+  <tr>
+    <td align="center" valign="top" width="760">
+      <h2>Blinkie Containment Zone</h2>
+      <img src="./assets/blinkie-html.gif" width="150" alt="html blinkie">
+      <img src="./assets/blinkie-pc-addict.gif" width="146" alt="pc addict blinkie">
+      <img src="./assets/blinkie-hate-bugs.gif" width="150" alt="hate bugs blinkie">
+      <img src="./assets/blinkie-bug.gif" width="150" alt="bug blinkie">
+      <br>
+      <img src="./assets/blinkie-procrastination.gif" width="150" alt="procrastination blinkie">
+      <img src="./assets/blinkie-monkey-bussiness.gif" width="150" alt="monkey business blinkie">
+      <img src="./assets/blinkie-gifted.gif" width="150" alt="gifted blinkie">
+      <img src="./assets/blinkie-what.gif" width="150" alt="what blinkie">
+      <br>
+      <img src="./assets/blinkie-around-me.gif" width="150" alt="around me blinkie">
+      <img src="./assets/blinkie-nosey.gif" width="150" alt="nosey blinkie">
+      <img src="./assets/blinkie-does%20annoy-you.gif" width="150" alt="does annoy you blinkie">
+      <img src="./assets/blinkie-drop-dead.gif" width="150" alt="drop dead blinkie">
+      <br>
+      <img src="./assets/blinkie-glow-dark.gif" width="150" alt="glow dark blinkie">
+      <img src="./assets/blinkie-spee-dark.gif" width="150" alt="dark blinkie">
+      <img src="./assets/blinkie-dizzy.gif" width="150" alt="dizzy blinkie">
+      <img src="./assets/blinkie-rubick-cube.gif" width="150" alt="rubick cube blinkie">
+      <br>
+      <img src="./assets/blinkie-all-your-base.gif" width="150" alt="all your base blinkie">
+      <img src="./assets/blinkie-penguin-stole.gif" width="150" alt="penguin stole blinkie">
+      <img src="./assets/blinkie-sponger-bob.gif" width="150" alt="spongebob blinkie">
+      <img src="./assets/blinkie-steal-it.gif" width="150" alt="steal it blinkie">
+      <br>
+      <img src="./assets/blinkie-beware-fish.gif" width="149" alt="beware fish blinkie">
+      <img src="./assets/blinkie-dragon.gif" width="175" alt="dragon blinkie">
+      <img src="./assets/blinkie-welcome-nest.gif" width="142" alt="welcome nest blinkie">
+      <br>
+      <small>these are arranged together for historical accuracy and because blinking is a valid architectural pattern</small>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="./assets/car-separator.gif" width="580" alt="">
+</div>
+
+<table align="center" border="0" cellspacing="0" cellpadding="8">
+  <tr>
+    <td align="center" valign="top" width="250">
+      <h2>Guestbook</h2>
+      <img src="./assets/guest-book.gif" width="120" alt="guest book">
+      <br>
+      <img src="./assets/click-here.gif" width="220" alt="click here">
+      <br><br>
+      <img src="./assets/email.gif" width="80" alt="email">
+      <br>
+      <strong>sign here:</strong>
+      <br>
+      <code>name: ____________</code>
+      <br>
+      <code>vibe: suspicious</code>
+      <br>
+      <code>browser: probably haunted</code>
+    </td>
+    <td valign="top" width="450">
+      <h2>HR-Safe Translation</h2>
+      Everything here is a joke for monetary and labor-related reasons.
+      I am a motivated developer with experience delivering practical tools, debugging strange systems,
+      and surviving fast-paced environments without turning every README into a corporate shrine.
+      <br><br>
+      I can collaborate, ship, maintain, document, and talk to stakeholders without making the sprint board worse.
+      I can also identify the exact moment a "quick frontend tweak" becomes a three-day archaeology project.
+      <br><br>
+      <div align="center">
+        <img src="./assets/thankyou.gif" width="130" alt="thank you">
+      </div>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="./assets/dripping-separator.gif" width="532" alt="">
+</div>
+
+<table align="center" border="0" cellspacing="0" cellpadding="8">
+  <tr>
+    <td align="center" valign="top" width="220">
+      <img src="./assets/sword.gif" width="120" alt="sword">
+      <br>
+      <strong>current quest</strong>
+      <br>
+      keep production calm
+    </td>
+    <td align="center" valign="top" width="220">
+      <img src="./assets/wow1-1.gif" width="140" alt="wow">
+      <br>
+      <strong>known weakness</strong>
+      <br>
+      CSS after midnight
+    </td>
+    <td align="center" valign="top" width="220">
+      <img src="./assets/dancing-dragon.gif" width="64" alt="dancing dragon">
+      <br>
+      <strong>certification</strong>
+      <br>
+      dragon approved, unverifiable
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="./assets/galaxy-separator.gif" width="504" alt="">
+  <br>
+  <small>best viewed in an impossible resolution, during a thunderstorm, with JavaScript disabled out of spite</small>
+</div>
