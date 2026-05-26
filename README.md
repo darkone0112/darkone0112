@@ -28,6 +28,8 @@
       <img src="./assets/jumpy-thingy-2.gif" width="30" alt="jumpy thing">
       <br><br>
       <img src="./assets/new3-3.gif" width="136" alt="new">
+      <br><br>
+      <img src="./assets/giphy.gif" width="220" alt="mysterious gif">
     </td>
     <td valign="top" width="430">
       <div align="center">
@@ -95,7 +97,6 @@
     <td align="center" valign="top" width="300">
       <img src="./assets/wow1-1.gif" width="140" alt="wow">
       <br><br>
-      <img src="./assets/giphy.gif" width="220" alt="mysterious gif">
     </td>
   </tr>
 </table>
