@@ -93,7 +93,7 @@
       JavaScript is my nemesis. It is not personal, it is philosophical.
     </td>
     <td align="center" valign="top" width="300">
-      <img src="./assets/cameron-world-640.gif" width="300" alt="old city">
+      <img src="./assets/wow1-1.gif" width="140" alt="wow">
       <br><br>
       <img src="./assets/giphy.gif" width="220" alt="mysterious gif">
     </td>
@@ -193,7 +193,7 @@
       <img src="./assets/sword.gif" width="120" alt="sword">
     </td>
     <td align="center" valign="top" width="220">
-      <img src="./assets/wow1-1.gif" width="140" alt="wow">
+      <img src="./assets/cameron-world-640.gif" width="300" alt="old city">
     </td>
     <td align="center" valign="top" width="220">
       <img src="./assets/dancing-dragon.gif" width="64" alt="dancing dragon">
