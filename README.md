@@ -34,16 +34,12 @@
         <img src="./assets/about-me-banenr.gif" width="420" alt="about me">
       </div>
       <br>
-      Hi, I'm a once-hopeful software engineering student. I scream at computers until they obey.
+      Hi, I'm a once-hopeful software engineering student haunting this corner of GitHub.
       <br><br>
       <em>Don't know who needs to hear this, but I use <strong>Arch</strong>, btw.</em>
       <br><br>
-      I build tools for very specific problems, usually after accidentally creating the problem myself.
-      I like systems that are practical, debuggable, and not held together by motivational quotes.
+      I scream at computers until they obey and build unstable little tools for problems I probably caused.
       JavaScript is still my nemesis, but I will write it, debug it, and pretend to enjoy it if the paycheck clears.
-      <br><br>
-      I use VS Code because the last time I tried turning my terminal setup into a personality, my desktop fought back.
-      Emotional stability is a feature.
     </td>
     <td align="center" valign="top" width="130">
       <img src="./assets/about-me-small.gif" width="94" alt="about me">
@@ -65,7 +61,10 @@
 <table align="center" border="0" cellspacing="0" cellpadding="8">
   <tr>
     <td valign="top" width="380">
-      <h2>What I Actually Do</h2>
+      <div align="center">
+        <img src="./assets/skills.gif" alt="skills">
+      </div>
+      <br>
       <img src="https://img.shields.io/badge/-Java-e76f00?style=flat-square&logo=coffeescript&logoColor=white&labelColor=1e1e1e" alt="Java">
       <img src="https://img.shields.io/badge/-AndroidStudio-3DDC84?style=flat-square&logo=android&logoColor=3DDC84&labelColor=1e1e1e" alt="Android Studio">
       <img src="https://img.shields.io/badge/-Python-ecec09?style=flat-square&logo=python&logoColor=3776AB&labelColor=1e1e1e" alt="Python">
@@ -74,6 +73,7 @@
       <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=4169E1&labelColor=1e1e1e" alt="PostgreSQL">
       <img src="https://img.shields.io/badge/-Bash%20-4EAA25?style=flat-square&logo=gnubash&logoColor=4EAA25&labelColor=1e1e1e" alt="Bash">
       <img src="https://img.shields.io/badge/-.NET%20-512BD4?style=flat-square&logo=.net&logoColor=512BD4&labelColor=1e1e1e" alt=".NET">
+      <img src="https://skillicons.dev/icons?i=cs&theme=dark" height="20" alt="C#">
       <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=2496ED&labelColor=1e1e1e" alt="Docker">
       <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=326CE5&labelColor=1e1e1e" alt="Kubernetes">
       <img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=D24939&labelColor=1e1e1e" alt="Jenkins">
@@ -82,13 +82,12 @@
       <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=E34F26&labelColor=1e1e1e" alt="HTML">
       <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=1572B6&labelColor=1e1e1e" alt="CSS">
       <img src="https://img.shields.io/badge/-%20Django-F7DF1E?style=flat-square&logo=django&logoColor=F7DF1E&labelColor=1e1e1e" alt="Django">
-      <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900&labelColor=1e1e1e" alt="AWS">
+      <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="20" alt="AWS">
       <br><br>
       <strong>Sadly I Also Know</strong>
       <br>
       <img src="https://img.shields.io/badge/-%20JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=1e1e1e" alt="JavaScript">
       <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=61DAFB&labelColor=1e1e1e" alt="React">
-      <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=239120&labelColor=1e1e1e" alt="C#">
       <br><br>
       I specialize in building unstable tools that solve very specific problems I created for myself.
       JavaScript is my nemesis. It is not personal, it is philosophical.
@@ -149,9 +148,9 @@
     <td align="center" valign="top" width="250">
       <img src="./assets/guest-book.gif" width="120" alt="guest book">
       <br>
-      <img src="./assets/click-here.gif" width="220" alt="click here">
-      <br>
-      <a href="https://github.com/darkone0112/darkone0112/issues/new?title=Guestbook%20visit&body=name%3A%20%0Avibe%3A%20%0Abrowser%3A%20">sign the guestbook</a>
+      <a href="https://github.com/darkone0112/darkone0112/issues/new?title=Guestbook%20visit&body=name%3A%20%0Avibe%3A%20%0Abrowser%3A%20">
+        <img src="./assets/click-here.gif" width="220" alt="click here">
+      </a>
       <br><br>
       <img src="./assets/email.gif" width="80" alt="email">
       <br>
